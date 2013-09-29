@@ -1,4 +1,4 @@
-package net.deathware.tut.t10;
+package com.rawdom.tut.t10;
 
 public class Arrays {
 

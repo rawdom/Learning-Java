@@ -1,4 +1,4 @@
-package net.deathware.tut.t5;
+package com.rawdom.tut.t5;
 
 public class forloop {
     public static void main(String[] args) {

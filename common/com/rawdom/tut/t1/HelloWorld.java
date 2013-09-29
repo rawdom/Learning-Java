@@ -1,4 +1,4 @@
-package net.deathware.tut.t1;
+package com.rawdom.tut.t1;
 
 public class HelloWorld {
 

@@ -1,4 +1,4 @@
-package net.deathware.tut.t9;
+package com.rawdom.tut.t9;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package net.deathware.tut.t6;
+package com.rawdom.tut.t6;
 
 public class ifstatements {
 

@@ -1,4 +1,4 @@
-package net.deathware.tut.t3;
+package com.rawdom.tut.t3;
 
 public class VariblesTwo {
 	public static void main(String[] args) {

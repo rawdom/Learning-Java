@@ -1,4 +1,4 @@
-package net.deathware.tut.t4;
+package com.rawdom.tut.t4;
 
 public class whileloop {
 

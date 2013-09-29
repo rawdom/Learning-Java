@@ -1,4 +1,4 @@
-package net.deathware.tut.t2;
+package com.rawdom.tut.t2;
 
 public class Varibales {
 
