@@ -16,7 +16,8 @@ class Thing {
     }
 
     public void showName() {
-        System.out.println("Object ID: " + id + ", " + description + ": " + name);
+        System.out.println("Object ID: " + id + ", " + description + ": "
+                + name);
     }
 
     public static void showInfo() {

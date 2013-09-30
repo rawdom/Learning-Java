@@ -14,27 +14,28 @@ public class ifstatements {
         else {
             System.out.println("Fuck you it's flase.");
         }
-        ///////////////////////////////////////////////////////////
+        // /////////////////////////////////////////////////////////
         pineapple = 0;
-       while(pineapple<1000){
-           if(pineapple==0){
-               System.out.println("Oh no I have no pineapples.");
-           }
-           else if(pineapple == 1){
-               System.out.println("I have one pineapple. hahahaha.");
-           }
-           else if(pineapple>150)
-           {
-               System.out.println("OH NO TOO MANYPINEAPPLES STOPPPPPPPPPPP!!!!!!!!!!!!!!");
-           }
-           else if (pineapple == 200){
-               break;
-           }
-           else if(pineapple >1){
-               System.out.println("I have "+pineapple+" pineapples. HAHAHAHA!");
-           }
-           pineapple++;
-       }
+        while (pineapple < 1000) {
+            if (pineapple == 0) {
+                System.out.println("Oh no I have no pineapples.");
+            }
+            else if (pineapple == 1) {
+                System.out.println("I have one pineapple. hahahaha.");
+            }
+            else if (pineapple > 150) {
+                System.out
+                        .println("OH NO TOO MANYPINEAPPLES STOPPPPPPPPPPP!!!!!!!!!!!!!!");
+            }
+            else if (pineapple == 200) {
+                break;
+            }
+            else if (pineapple > 1) {
+                System.out.println("I have " + pineapple
+                        + " pineapples. HAHAHAHA!");
+            }
+            pineapple++;
+        }
     }
 
 }

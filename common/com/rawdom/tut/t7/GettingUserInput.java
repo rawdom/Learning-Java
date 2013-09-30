@@ -4,16 +4,16 @@ import java.util.Scanner;
 
 public class GettingUserInput {
     public static void main(String[] args) {
-        //Create Scanner
+        // Create Scanner
         Scanner input = new Scanner(System.in);
-        
+
         System.out.println("Enter a line of text: ");
-        //Wait for input
+        // Wait for input
         String line = input.nextLine();
-        //Relay data
-        System.out.println("You entered: " + line+"\n\n\nEnter a number: ");
-        
+        // Relay data
+        System.out.println("You entered: " + line + "\n\n\nEnter a number: ");
+
         int value = input.nextInt();
-        System.out.println("The number is: "+value);
+        System.out.println("The number is: " + value);
     }
 }
